@@ -1,4 +1,4 @@
- 
+This is a premade description from Microsoft MakeCode. This was not written by me, and was automatically put in.  
 
 
 > Open this page at [https://dirtiguy.github.io/roguelike_ig/](https://dirtiguy.github.io/roguelike_ig/)
